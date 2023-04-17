@@ -1,0 +1,2 @@
+# chatGPT-goldrush
+chatgpt goldrush
